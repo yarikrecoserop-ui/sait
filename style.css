@@ -1,0 +1,54 @@
+
+
+body{
+   background-color: aqua; 
+   
+}
+
+.pr{
+border-radius: 23px;
+width: 1040px;
+height: 260px;
+background-color: blueviolet;
+color: rgb(255, 255, 255);
+margin: 65px;
+}
+
+
+
+
+    .krug{
+    border-radius: 1000px;
+    background-color: brown;
+    width: 500px;
+     height: auto;
+  
+    border: 4px solid black;
+    float: left;
+    margin-left: 400px;
+
+    }
+
+    .krug2{
+    border-radius: 1000px;
+    background-color: yellow;
+    width: 500px;
+    height: auto;
+    border: 4px solid black;
+    float: right;
+    margin-right: 400px;
+    font-size: 45px;
+    overflow: hidden;
+    text-align: center;
+    padding: 40px;
+    }
+
+ 
+.footerbg{
+   width: 100%;
+   padding: 200px 5px;
+   background: aquamarine;
+   position: absolute;
+   bottom: 0;
+   color: rgb(0, 0, 0);
+}
